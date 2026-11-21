@@ -1,0 +1,4 @@
+# What the brain needs. Google Colab already has these installed —
+# you only need this file if you ever run the code on your own computer.
+torch>=2.1
+numpy>=1.24
