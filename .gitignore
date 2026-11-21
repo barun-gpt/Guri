@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Training outputs (big files — keep them in Google Drive / Hugging Face, not Git)
+out/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+data/tokenized*
+data/*.npy
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
